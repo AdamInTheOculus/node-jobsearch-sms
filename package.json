@@ -1,0 +1,22 @@
+{
+  "name": "node-address",
+  "version": "0.0.1",
+  "description": "Testing out Geocoding with Indeed Jobs",
+  "main": "address.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Geocoding",
+    "Indeed",
+    "Jobs",
+    "Scraping",
+    "HTTPS"
+  ],
+  "author": "Adam Sinclair",
+  "license": "ISC",
+  "dependencies": {
+    "scrape-indeed": "^0.4.2",
+    "twilio": "^3.11.0"
+  }
+}
