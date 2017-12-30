@@ -44,6 +44,8 @@ IndeedService.query(options)
     let geoString = '\n----------------------------------\n';
     geoString += 'Job Title: ' + jobInfo.job.title;
     geoString += '\n----------------------------------\n';
+    geoString += 'Company: ' + jobInfo.job.company;
+    geoString += '\n----------------------------------\n';
     geoString += 'Location: ' + jobInfo.location;
     geoString += '\n----------------------------------\n';
     geoString += 'Address: ' +  jobInfo.address.results[0].formatted_address;
