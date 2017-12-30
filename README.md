@@ -38,4 +38,6 @@ Example: `node app.js 'Software Engineer Intern' 'Toronto' 5 50`
 #### Output
 Below is the output you will receive from Twilio SMS:
 
+`node app.js 'Software Engineer Intern' 'Vancouver' 5 50`
+
 ![screen shot 2017-12-30 at 5 56 57 pm](https://user-images.githubusercontent.com/15149835/34457822-0ac6c73c-ed8b-11e7-9383-0a026b7730ff.png)
